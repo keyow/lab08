@@ -1,9 +1,0 @@
-/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/keyow/workspace/projects/lab07
--- [hunter] Calculating Toolchain-SHA1
--- [hunter] Calculating Config-SHA1
--- [hunter] HUNTER_ROOT: /home/keyow/.hunter
--- [hunter] [ Hunter-ID: 95c47c9 | Toolchain-ID: 4162dcb | Config-ID: c8a7791 ]
--- [hunter] GTEST_ROOT: /home/keyow/.hunter/_Base/95c47c9/4162dcb/c8a7791/Install (ver.: 1.11.0)
--- Configuring done
--- Generating done
--- Build files have been written to: /home/keyow/workspace/projects/lab07/cmake-build-debug
