@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfibd.a CMakeFiles/fib.dir/sources/fib.cpp.o
+/usr/bin/ranlib libfibd.a

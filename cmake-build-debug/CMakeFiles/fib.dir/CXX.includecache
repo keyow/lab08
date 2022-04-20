@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/fib.hpp
+string
+-
+iostream
+-
+
+/home/keyow/workspace/projects/lab07/sources/fib.cpp
+fib.hpp
+-
+
