@@ -59,3 +59,6 @@ install(EXPORT "${TARGETS_EXPORT_NAME}"
 
 install(FILES "${project_config}"
         DESTINATION "${config_bin}")
+
+install(TARGETS tests
+        RUNTIME DESTINATION bin)
